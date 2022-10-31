@@ -2,7 +2,7 @@
 #include <Adafruit_SSD1306.h>
 #include <Adafruit_Sensor.h>
 #include <Smoothed.h>
-
+//yumuşatma kütüphanesi
 
 Smoothed <float> ortDeger;
 
